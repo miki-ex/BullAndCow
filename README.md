@@ -1,2 +1,2 @@
 # BullAndCow
-game gor guessing numbers
+game for guessing numbers
